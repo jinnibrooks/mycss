@@ -93,7 +93,7 @@ img.right {
 
 #header {
 	padding: 10px 10px 12px 10px;
-	background: url(images/img1.gif) no-repeat left bottom;
+	background: url(https://i.imgur.com/bEHaPHp.gif) no-repeat left bottom;
 }
 
 #header h1, #header h2 {
@@ -117,7 +117,7 @@ img.right {
 /* Content */
 
 #content {
-	background: #FFFFFF url(images/img2.gif) repeat-y;
+	background: #FFFFFF url(https://i.imgur.com/SKtOrDX.gif) repeat-y;
 }
 
 /* Blog */
@@ -138,7 +138,7 @@ img.right {
 	height: 45px;
 	margin: 0;
 	padding: 5px 0 0 15px;
-	background: url(images/img4.gif) repeat-x;
+	background: url(https://i.imgur.com/qUs9LcI.gif) repeat-x;
 }
 
 .post .title a {
@@ -199,7 +199,7 @@ img.right {
 	height: 45px;
 	margin: 0;
 	padding: 12px 0 0 15px;
-	background: url(images/img4.gif) repeat-x;
+	background: url(https://i.imgur.com/qUs9LcI.gif) repeat-x;
 	text-transform: uppercase;
 	font-size: 1em;
 	font-weight: bold;
@@ -221,12 +221,12 @@ img.right {
 #search #inputtext1 {
 	width: 110px;
 	padding: 1px 2px;
-	background: url(images/img5.gif) repeat-x;
+	background: url(https://i.imgur.com/o3N9H0w.gif) repeat-x;
 	border: 1px solid #C4C3C4;
 }
 
 #search #inputsubmit1 {
-	background: url(images/img6.gif) repeat-x left bottom;
+	background: url(https://i.imgur.com/tfeHRWy.gif) repeat-x left bottom;
 	border: 1px solid #C4C3C4;
 }
 
@@ -253,7 +253,7 @@ img.right {
 /* Footer */
 
 #footer {
-	background: url(images/img3.gif) no-repeat;
+	background: url(https://i.imgur.com/umeNQsX.gif) no-repeat;
 }
 
 #footer p {
